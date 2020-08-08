@@ -43,20 +43,20 @@ html {
   /*text-transform: capitalize;*/
   border:hidden;
   width:100%;
-  background:#39778f;
+  background:#F2C57C;
   margin:0 auto;
   margin-top:1%;
   padding:10px;
   text-align:center;
   text-decoration:none;
-  color:rgb(245, 245, 245);
+  color:#3C493F;
   cursor:pointer;
   -moz-border-radius:7px;
   -webkit-border-radius:7px;
   border-radius:7px;
   transition:background .3s;
   -webkit-transition:background .3s;
-  box-shadow: 0 5px #30657a, 0 15px 50px rgba(0,0,0, .65);
+  box-shadow: 0 5px #e9a955, 0 15px 50px rgba(0,0,0, .65);
 
 }
 
@@ -85,7 +85,7 @@ html {
   /*text-transform: capitalize;*/
   border:hidden;
   width:100%;
-  background:#349ecc;
+  background:#db9e3b;
   margin:0 auto;
   margin-top:1%;
   padding:10px;
@@ -105,20 +105,20 @@ html {
     /*text-transform: capitalize;*/
     border:hidden;
     width:100%;
-    background:#39778f;
+    background:#F2C57C;
     margin:0 auto;
     margin-top:1%;
     padding:10px;
     text-align:center;
     text-decoration:none;
-    color:rgb(245, 245, 245);
+    color:#3C493F;
     cursor:pointer;
     -moz-border-radius:7px;
     -webkit-border-radius:7px;
     border-radius:7px;
     transition:background .3s;
     -webkit-transition:background .3s;
-    box-shadow: 0 5px #30657a, 0 15px 50px rgba(0,0,0, .65);
+    box-shadow: 0 5px #e9a955, 0 15px 50px rgba(0,0,0, .65);
   }
 
   
@@ -127,7 +127,7 @@ html {
   /*text-transform: capitalize;*/
   border:hidden;
   width:100%;
-  background:#349ecc;
+  background:#db9e3b;
   margin:0 auto;
   margin-top:1%;
   padding:10px;
@@ -164,7 +164,7 @@ html {
 }
 
 .aside {
-  background-color: #22424e;
+  background-color: #3c493f;
   padding: 15px;
   color: #ffffff;
   text-align: center;
@@ -203,14 +203,14 @@ html {
 
 body {
     margin: 0 auto;
-    color:#f5f4f4;
-    background:#919fa1;
+    color:#fdfdfd;
+    background:#b3bfb8;
     font-family:'Open Sans',sans-serif;
 }
 
 #FormIngreso {
   
- background-color: #0c2430;
+ background-color: #3c493f;
   padding:6% 4%;
 }
 
@@ -222,7 +222,7 @@ input[type="text"]{
   padding:4%;
   font-family:'Open Sans',sans-serif;
   font-size:95%;
-  color:rgb(60, 77, 160);
+  color:rgb(17, 22, 48);
 }
 
 
